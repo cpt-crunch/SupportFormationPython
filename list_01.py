@@ -10,8 +10,8 @@ print(liste[2])#Ecriture de la liste 2 (1, 4)
 
 #Ajout de valeurs
 liste = []
-ptint(liste)#Ici aucune valeur n'as été ajouté, nous n'avons donc pas besoin de sélectionné une valeur afin de l'affiché
+ptint(liste)#Ici aucune valeur n'a été ajoutée, nous n'avons donc pas besoin de sélectionner une valeur afin de l'afficher
 liste.append(1)
-print(liste)#On obtiendra par cette commande la valeur ajouté '1', vu qu'elle est seule elle s'affichera sous la même commande simple
+print(liste)#On obtiendra par cette commande la valeur ajoutée '1', vu qu'elle est seule elle s'affichera sous la même commande simple
 liste.append(2)
-print(liste)#Il n'y a toujours qu'une seule valeur présente dans la liste, donc pas obligé de sélectionner la valeur qu'on souhaite affiché
+print(liste)#Il n'y a toujours qu'une seule valeur présente dans la liste, donc pas obligé de sélectionner la valeur qu'on souhaite afficher
