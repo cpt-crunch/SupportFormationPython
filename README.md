@@ -2,7 +2,7 @@
 Support de formation Python ciblé pour l'administration système, niveau débutant en Français. 
 
 # Description 
-Vous trouverez ci-dessous differents chapitre proposant différents énnoncés 
+Vous trouverez ci-dessous differents chapitres proposant différents énnoncés 
 l'objectif et de réaliser un fichier .py pour chaque ennoncé, contennant la réponse à l'exercice.
 
 N'oubliez pas de commenter votre code et de correctement l'indenter.
@@ -27,17 +27,17 @@ print(address)
 1. Assign variable : Montrer comment assigner une variable simple string et l'afficher en console
 2. Créer une liste la mettre à jour et l'afficher.
 3. Créer un tuple la mettre à jour et l'afficher.
-4. Faire un demonstration d'utilisation de if
-5. Faire un demonstration d'utilisation de if, elif et else
+4. Faire une demonstration d'utilisation de if
+5. Faire une demonstration d'utilisation de if, elif et else
 6. Faire une démonstration d'utilisation d'une boucle for en utilisant une liste
 7. Faire une démonstration d'une boucle for utilisant "range"
 8. Faire une démonstration d'une boucle While
 9. Faire la démonstration de la création et l'utilisation d'une fonction simple (print hello world).
-10. Faire la démonstration de la création et l'utilisation d'une fonction qui prends des argument en entrée et qui return une valeur.
+10. Faire la démonstration de la création et l'utilisation d'une fonction qui prend des arguments en entrée et qui return une valeur.
 11. Faire une démonstration d'utilisation d'une fonction Lambda
 
 # Chapitre 2 - WIP /!\
 
 - Exception Try-except
-- Class avec 2 methode appelé dans le codes
+- Class avec 2 methodes appelées dans le code
 - 
