@@ -11,7 +11,7 @@ b, c = 1, 4 #Création du tuple
 b #On appelle le premier chiffre défini par la variable 'b'
 c #On appelle le second chiffre défini par la variable 'c'
 
-# Si on reprend la forme de variable contenant les parenthèses cela revindrais à ça 
+# Si on reprend la forme de variable contenant les parenthèses cela reviendrais à ça 
 
 (b, c) = (1, 4)
 
